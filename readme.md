@@ -1,6 +1,7 @@
 # Microzone Delineation Workflow  
-[How-to guide](https://docs.google.com/document/d/1gxxo6a0muU6JxEXwSgjpeitC1U00WUzy3vLYgeUYgp0/edit?tab=t.0)
-
+[How-to Guide](https://docs.google.com/document/d/1gxxo6a0muU6JxEXwSgjpeitC1U00WUzy3vLYgeUYgp0/edit?tab=t.0)
+[Fun Finds](https://docs.google.com/presentation/d/1QeFqcBgv2k-AAnNG6zQv8h4qFMt7IwfvOr7lrZEqdlo/edit?slide=id.p#slide=id.p)
+[Group Activity](https://docs.google.com/presentation/d/1h45zvMTKtU1Hq30jq44Wj8s_6ZOTdFsKbvkwrldVKYw/edit?slide=id.p#slide=id.p)
 
 ## Requirements  
 - **ArcGIS Pro**  
