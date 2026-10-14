@@ -9,7 +9,7 @@ count_previous = 26050
 count_previous_sl = 10718
 count_previous_wbe = 3724
 count_previous_da = 3810
-count_previous_ut = 7797
+count_previous_ut = 9765
 count_previous_wfrc = count_previous_sl + count_previous_wbe + count_previous_da
 
 
